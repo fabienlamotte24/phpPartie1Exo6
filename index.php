@@ -7,7 +7,8 @@
   <body>
     <p>
       <?php
-        $name = 'fabien';
+        $name = 'fabien';/*Déclaration variable*/
+        /*Affichage de la variable avec concaténation*/
         echo 'bonjour ' . $name . ', comment vas-tu bg ?';
       ?>
     </p>
